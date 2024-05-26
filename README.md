@@ -1,2 +1,1 @@
-# rtklib-cli.nix
-Nix flake for the Rtklibexplorer fork of RTKLIB
+A flake for the RTKLIBExplorer fork of RTKLIB.
